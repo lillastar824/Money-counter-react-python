@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](https://money-tracker-backend1.herokuapp.com/) here!!
 1. Git Clone
 
 ```
-git clone git@github.com:Tech-i-s/techis-wd-forum-django-react.git
+git clone git@github.com:lillastar824/Money-counter-react-python.git
 ```
 
 2. Backend setting
